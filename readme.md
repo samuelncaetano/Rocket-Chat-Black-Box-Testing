@@ -4,8 +4,8 @@ Este projeto tem como objetivo realizar testes de caixa preta na aplicação Roc
 
 ## Requisitos
 
-- [Node.js](https://nodejs.org/)
-- [npm](https://www.npmjs.com/)
+- Node.js
+- npm
 
 ## Instalação
 
