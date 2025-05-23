@@ -108,7 +108,7 @@ test('CT05', async ({ page }) => {
   await expect(page.getByText('*Texto em negrito_').last()).toBeVisible();
 });
 
-test('CT06', async ({ page }) => {
+test('CT09', async ({ page }) => {
   const mensagem = 'Mensagem temporária para deletar';
 
   await page.getByRole('link', { name: 'general' }).click();
